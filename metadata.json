@@ -1,0 +1,6 @@
+{
+  "name": "SkillPath AI",
+  "description": "Agentic personalized learning and career development platform powered by specialized AI agents for skill assessment, gap analysis, adaptive roadmaps, and mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
